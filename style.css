@@ -1,0 +1,40 @@
+
+
+.navi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+#smallNavi{
+     display: flex;
+    justify-content: center;
+    gap: 26px;
+    margin: 0 48px 0 0;
+}
+
+#free{
+color: #F5F5F5;
+font-family: Family Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 100%;
+display: flex;
+padding:12px;
+align-items: center;
+border-radius: 8px;
+background:#2C2C2C
+}
+.menu{
+color: #5C6375;
+font-family: Inter;
+font-size: 13px;
+font-weight: 400;
+line-height: 145%; 
+}
+#x{
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 48px;
+}
